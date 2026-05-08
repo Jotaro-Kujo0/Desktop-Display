@@ -1,4 +1,4 @@
-# Project Play — Spotify Display (Enhanced Edition)
+# Desktop Display — Spotify Display (Guıded Project)
 
 A low-power physical Spotify controller and monitor built with an ESP32-C3. This version is optimized for battery life, featuring deep sleep capabilities, power-saving WiFi modes, and a customizable display interface.
 
@@ -6,7 +6,7 @@ A low-power physical Spotify controller and monitor built with an ESP32-C3. This
 
 ## What it does
 
-*   **Spotify Integration:** Shows current track, artist, and live progress bar via the Spotify Web API.
+*   **Spotify Integration:** Shows current track, artist,album cover and live progress bar via the Spotify Web API.
 *   **Power Optimized:** Uses Deep Sleep (~10μA), WiFi Modem Sleep, and disabled Bluetooth to maximize battery life.
 *   **Smart Monitoring:** Built-in battery percentage monitoring and automatic sleep when idle.
 *   **Physical Controls:** Multi-function button handling (long-press support) and dedicated playback buttons.
@@ -26,6 +26,7 @@ A low-power physical Spotify controller and monitor built with an ESP32-C3. This
 | **Function Button** | For mode switching and wake-up | 1 |
 | **LiPo Battery** | 3.7V (1000mAh+ recommended) | 1 |
 | **Resistors** | 10kΩ (for battery voltage divider) | 2 |
+NOTE: The model has 6 holes for better customization. You can use 3 instead with a little change to code
 
 ### Wiring
 
