@@ -1,3 +1,6 @@
+
+<img width="821" height="646" alt="Ekran görüntüsü 2026-05-08 183917" src="https://github.com/user-attachments/assets/da6d9c45-36da-46aa-8bf0-835c115b0c7b" />
+
 # Desktop Display — Spotify Display (Guıded Project)
 
 A low-power physical Spotify controller and monitor built with an ESP32-C3. This version is optimized for battery life, featuring deep sleep capabilities, power-saving WiFi modes, and a customizable display interface.
