@@ -26,7 +26,7 @@ A low-power physical Spotify controller and monitor built with an ESP32-C3. This
 | **Function Button** | For mode switching and wake-up | 1 |
 | **LiPo Battery** | 3.7V (1000mAh+ recommended) | 1 |
 | **Resistors** | 10kΩ (for battery voltage divider) | 2 |
-NOTE: The model has 6 holes for better customization. You can use 3 instead with a little change to code
+NOTE: The model has 6 keyswitch holes for better customization. You can use 3 instead with a little change to code
 
 ### Wiring
 
